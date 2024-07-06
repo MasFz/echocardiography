@@ -1,2 +1,4 @@
-# echocardiography
-Análise da utilização do medicamento dobutamina em ecocardiografias de estresse
+Estudo sobre a eficiência do medicamento "Dobutamina" em Ecocardiogramas de Estresse.
+
+
+Fonte dos dados: https://hbiostat.org/data
